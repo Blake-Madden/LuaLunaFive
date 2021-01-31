@@ -3,7 +3,7 @@ C++ bindings for Lua from the Lua Users forum.
 
 Code available from:
 
-Available from [http://lua-users.org/wiki/LuaLunaFive](http://lua-users.org/wiki/LuaLunaFive).
+[http://lua-users.org/wiki/LuaLunaFive](http://lua-users.org/wiki/LuaLunaFive).
 
 # Example
 
